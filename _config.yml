@@ -1,0 +1,3 @@
+baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+url: "http://speedtest.knoacc.org" # the base hostname & protocol for your site
+title: "D' Warkop Launcher"
